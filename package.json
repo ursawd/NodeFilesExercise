@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ursawd/NodeFilesExercise/issues"
   },
-  "homepage": "https://github.com/ursawd/NodeFilesExercise#readme"
+  "homepage": "https://github.com/ursawd/NodeFilesExercise#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
